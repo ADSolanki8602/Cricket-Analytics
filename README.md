@@ -28,6 +28,14 @@ I have ball-by-ball dataset of IPL 2008-2021. It conatains all ball-by-ball info
 - [Numpy](https://developer.android.com/reference/android/util/Xml) For frontend layouts designing.
 - [Pandas](https://firebase.google.com/) For database
 
+### App ScreenShot
+![image](https://user-images.githubusercontent.com/71968604/164991901-cc4e7c4f-6672-42f7-a91c-24e86cfb2bb2.png)
+Players selection
+![image](https://user-images.githubusercontent.com/71968604/164991920-e030ec52-369e-4b31-9bd1-ea982122d3f1.png)
+selected playing 22
+![image](https://user-images.githubusercontent.com/71968604/164991928-f9f548ac-4567-4e5d-b98a-0d6f7075fd5c.png)
+Recommends best playing 11 
+
 ## Contact
 
 - [@ADSolanki8602](https://github.com/ADSolanki8602)
