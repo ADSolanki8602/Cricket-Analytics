@@ -15,7 +15,6 @@
 ## About The Project
 
 - A Flask GUI application which recommands the best fit play againest opponents team.
--
 ### Used Dataset 
 I have ball-by-ball dataset of IPL 2008-2021. It conatains all ball-by-ball information from ipl 2008 to 2021
 
