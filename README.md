@@ -22,10 +22,10 @@ I have ball-by-ball dataset of IPL 2008-2021. It conatains all ball-by-ball info
 
 
 ### Built With
-- [Python](https://developer.android.com/guide)
-- [Flask](https://www.java.com/) For bakend implementation.
-- [Numpy](https://developer.android.com/reference/android/util/Xml) For frontend layouts designing.
-- [Pandas](https://firebase.google.com/) For database
+- [Python]()
+- [Flask]() For GUI repesention of the code.
+- [Numpy]()
+- [Pandas]()
 
 ### App ScreenShot
 ![image](https://user-images.githubusercontent.com/71968604/164991901-cc4e7c4f-6672-42f7-a91c-24e86cfb2bb2.png)
