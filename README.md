@@ -32,8 +32,10 @@ I have ball-by-ball dataset of IPL 2008-2021. It conatains all ball-by-ball info
 <h5 align="center"><i>Players selection</i></h5>
 
 
+
 ![image](https://user-images.githubusercontent.com/71968604/164991920-e030ec52-369e-4b31-9bd1-ea982122d3f1.png)
 <h5 align="center"><i>selected playing 22</i></h5>
+
 
 
 ![image](https://user-images.githubusercontent.com/71968604/164991928-f9f548ac-4567-4e5d-b98a-0d6f7075fd5c.png)
