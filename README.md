@@ -20,6 +20,9 @@ I have ball-by-ball dataset of IPL 2008-2021. It conatains all ball-by-ball info
 
 ![image](https://user-images.githubusercontent.com/71968604/164991264-656335de-9f91-4840-9b37-e14fc4b332f4.png)
 
+# Getting stared
+Clone this repository, add the necessary libraries, and execute the app.py file.
+
 
 ### Built With
 - [Python]()
